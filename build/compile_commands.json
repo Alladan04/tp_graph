@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/alla/Документы/tp_dz3/build",
+  "command": "/usr/bin/g++  -I/home/alla/Документы/tp_dz3/headers -g -o CMakeFiles/myapp.dir/main.cpp.o -c /home/alla/Документы/tp_dz3/main.cpp",
+  "file": "/home/alla/Документы/tp_dz3/main.cpp"
+},
+{
+  "directory": "/home/alla/Документы/tp_dz3/build",
+  "command": "/usr/bin/g++  -I/home/alla/Документы/tp_dz3/headers -g -o CMakeFiles/myapp.dir/source/ArcGraph.cpp.o -c /home/alla/Документы/tp_dz3/source/ArcGraph.cpp",
+  "file": "/home/alla/Документы/tp_dz3/source/ArcGraph.cpp"
+},
+{
+  "directory": "/home/alla/Документы/tp_dz3/build",
+  "command": "/usr/bin/g++  -I/home/alla/Документы/tp_dz3/headers -g -o CMakeFiles/myapp.dir/source/ListGraph.cpp.o -c /home/alla/Документы/tp_dz3/source/ListGraph.cpp",
+  "file": "/home/alla/Документы/tp_dz3/source/ListGraph.cpp"
+},
+{
+  "directory": "/home/alla/Документы/tp_dz3/build",
+  "command": "/usr/bin/g++  -I/home/alla/Документы/tp_dz3/headers -g -o CMakeFiles/myapp.dir/source/MatrixGraph.cpp.o -c /home/alla/Документы/tp_dz3/source/MatrixGraph.cpp",
+  "file": "/home/alla/Документы/tp_dz3/source/MatrixGraph.cpp"
+},
+{
+  "directory": "/home/alla/Документы/tp_dz3/build",
+  "command": "/usr/bin/g++  -I/home/alla/Документы/tp_dz3/headers -g -o CMakeFiles/myapp.dir/source/SetGraph.cpp.o -c /home/alla/Документы/tp_dz3/source/SetGraph.cpp",
+  "file": "/home/alla/Документы/tp_dz3/source/SetGraph.cpp"
+}
+]

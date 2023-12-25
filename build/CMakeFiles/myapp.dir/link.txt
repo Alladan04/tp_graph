@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/myapp.dir/main.cpp.o CMakeFiles/myapp.dir/source/ArcGraph.cpp.o CMakeFiles/myapp.dir/source/ListGraph.cpp.o CMakeFiles/myapp.dir/source/MatrixGraph.cpp.o CMakeFiles/myapp.dir/source/SetGraph.cpp.o -o myapp 
